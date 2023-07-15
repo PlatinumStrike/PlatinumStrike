@@ -3,7 +3,7 @@
 I'm still working on getting my github properly set up with everything,
 but feel free to check out my temporary notion portfolio!
 
-<a>https://momentous-tent-e89.notion.site/Justin-Hanna-07ee84a5e8bf4e14a121b21532b82053</a>
+<a href="https://momentous-tent-e89.notion.site/Justin-Hanna-07ee84a5e8bf4e14a121b21532b82053">Portfolio Link ooooooh</a>
 
 <!--
 **PlatinumStrike/PlatinumStrike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
