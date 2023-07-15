@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm still working on getting my github properly set up with everything,
+but feel free to check out my temporary notion portfolio!
+
+
+
 <!--
 **PlatinumStrike/PlatinumStrike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
