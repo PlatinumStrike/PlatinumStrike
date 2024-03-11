@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-I'm still working on getting my github properly set up with everything,
-but feel free to check out my temporary notion portfolio!
+I'm Justin Hanna!
+I'm currently studying [Computer Engineering and Management](https://www.eng.mcmaster.ca/ece/degree-options/computer-engineering-and-management/) at [McMaster University](https://www.eng.mcmaster.ca/).
 
-<a href="https://momentous-tent-e89.notion.site/Justin-Hanna-07ee84a5e8bf4e14a121b21532b82053">Portfolio Link ooooooh</a>
+You can check out some of my coding projects here!
+
+For some of my design-focused work, check out my Design Portfolio!
+<a href="https://momentous-tent-e89.notion.site/Justin-Hanna-07ee84a5e8bf4e14a121b21532b82053">Design Portfolio</a>
 
 <!--
 **PlatinumStrike/PlatinumStrike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
